@@ -1,3 +1,12 @@
 body{
     background-color: tomato;
 }
+#btn{
+    display: block;
+    margin: 0 auto;
+}
+#intro{
+    width: 350px;
+    margin: 0 auto;
+}
+
