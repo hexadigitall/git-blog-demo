@@ -3,10 +3,27 @@ body{
 }
 #btn{
     display: block;
+    color: goldenrod;
+    background-color: maroon;
+    width: 10rem;
+    height: 2rem;
+    border: 1px solid transparent;
+    border-radius: 2rem;
     margin: 0 auto;
 }
 #intro{
-    width: 350px;
+    width: 450px;
     margin: 0 auto;
+    background-color: wheat;
+    padding: 2px;
+    border: 2px solid transparent;
+    border-radius: 2rem;
+}
+ul li{
+   list-style-type: none; 
+}
+#btn:hover{
+    color: grey;
+    background-color: blue;
 }
 
